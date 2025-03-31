@@ -1,7 +1,7 @@
 <img src ="https://github.com/user-attachments/assets/152529cc-7c2f-4256-812e-41b06f9e1da3" width="250"/>
 Hi there! I'm Matheus Oliveira Hosken, a passionate Data Scientist and technology enthusiast. Always eager to learn and explore new innovations in the world of data, I love transforming raw information into meaningful insights.
 
-Currently living in São Paulo, Brazil![image](https://github.com/user-attachments/assets/a092a2bc-9e86-490c-81c5-5d67f8ada5d7)
+Currently living in São Paulo, Brazil<img src ="https://github.com/user-attachments/assets/c9187c16-6858-44d3-8c81-68bcf5a11310" width="20"/>
 , I grew up in Rio de Janeiro, which shaped my perspective and curiosity.
 
 💡 Constantly improving my skills in machine learning, data analysis, and AI.
