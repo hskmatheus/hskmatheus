@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZnYmxmNWdkNzRrZHRpMGRjeTZpMDlzazRucXJsMW5sdWl4c3c0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)              teste
-                                                                                                                                                                                                     teste
-aaaaaaaa
-aaaaaaaaaa
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZnYmxmNWdkNzRrZHRpMGRjeTZpMDlzazRucXJsMW5sdWl4c3c0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) 
+
 <!--
 **hskmatheus/hskmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
