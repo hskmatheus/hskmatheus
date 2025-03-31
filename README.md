@@ -1,6 +1,6 @@
 <img src ="https://github.com/user-attachments/assets/152529cc-7c2f-4256-812e-41b06f9e1da3" width="250"/>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi there! I'm <b>Matheus Oliveira Hosken</b>, a passionate Data Scientist and technology enthusiast. Always eager to learn and explore new innovations in the world of data, I love transforming raw information into meaningful insights.
 
