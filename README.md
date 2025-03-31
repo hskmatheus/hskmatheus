@@ -1,6 +1,14 @@
 <img src ="https://github.com/user-attachments/assets/152529cc-7c2f-4256-812e-41b06f9e1da3" width="250"/>
+Hi there! I'm Matheus Oliveira Hosken, a passionate Data Scientist and technology enthusiast. Always eager to learn and explore new innovations in the world of data, I love transforming raw information into meaningful insights.
 
+Currently living in São Paulo, Brazil![image](https://github.com/user-attachments/assets/a092a2bc-9e86-490c-81c5-5d67f8ada5d7)
+, I grew up in Rio de Janeiro, which shaped my perspective and curiosity.
 
+💡 Constantly improving my skills in machine learning, data analysis, and AI.
+📚 Lifelong learner, always diving into new technologies.
+🚀 Excited to collaborate on data-driven projects!
+
+Feel free to explore my repositories and connect with me! Let's build something amazing together.
 <!--
 **hskmatheus/hskmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
