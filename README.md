@@ -1,5 +1,4 @@
-<img src ="https://github.com/user-attachments/assets/b2dfb22b-1750-4b34-bced-d766db5a0130" width="250"/>
-
+<img src ="https://github.com/user-attachments/assets/a7901327-e99c-46c9-b9b4-df301d22c781" width="250"/>
 
 <!--
 **hskmatheus/hskmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
