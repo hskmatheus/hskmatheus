@@ -9,7 +9,7 @@ Currently living in São Paulo, Brazil <img src ="https://github.com/user-attach
 
 <b>My Skillset</b>
 
-<img src= "https://github.com/user-attachments/assets/57afc372-c7cb-4e20-9878-eb42611440f9" width="50"/>  <img src= "https://github.com/user-attachments/assets/15bb35a2-9cb6-418b-bdc9-e915623f943c" width="100"/> <img src= "https://github.com/user-attachments/assets/11e3a23c-7369-40a2-9561-dc1488800b13" width="100"/>
+<img src= "https://github.com/user-attachments/assets/57afc372-c7cb-4e20-9878-eb42611440f9" width="50"/>  <img src= "https://github.com/user-attachments/assets/6fafa1b4-e189-4d62-8159-c0dc7caafdd6" width="50"/> <img src= "https://github.com/user-attachments/assets/11e3a23c-7369-40a2-9561-dc1488800b13" width="100"/>
 
 
 
